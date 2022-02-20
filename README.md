@@ -1,5 +1,3 @@
-# Code Refactor Starter Code
-
 Changed title from "website" to "Horiseon"
 
 Semantic HTML elements were added 
