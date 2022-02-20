@@ -11,8 +11,6 @@ Changed div class name from "hero" to "heroimage"
 
 Changed main class name from "content" to "maincontent"
 
-Added some empty lines for making the HTML sections easier to identify
-
 Changed the class search-engine-optimization to id search-engine-optimization
 
 Removed the class="online-reputation-management" & class="social-media-marketing"
